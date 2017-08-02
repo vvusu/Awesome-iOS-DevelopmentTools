@@ -19,11 +19,11 @@ iOS开发工具集合
 ## 测试
 * [facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 模拟器适配测试，模拟器多开框架。
 * [facebook/ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - IOS的快照视图单元测试
-* [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - 一个危险字符串的大列表,测试iOS键盘
+* [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - 危险字符串的大列表,测试iOS键盘
 * [johnno1962/Remote](https://github.com/johnno1962/Remote) - Xcode 内部控制你的 iPhone 来做端到端的测试
 * [inkling/Subliminal](https://github.com/inkling/Subliminal) - iOS集成测试框架
 * [square/PonyDebugger](https://github.com/square/PonyDebugger) - 使用Chrome开发者工具对iOS进行远程网络和数据调试
-* [wedxz/LNLeaksFinder](https://github.com/wedxz/LNLeaksFinder) - 自动化内存测试框架
+* [wedxz/LNLeaksFinder](https://github.com/wedxz/LNLeaksFinder) - 自动化内存泄漏测试框架
 
 ## 调试
 * [facebook/chisel](https://github.com/facebook/chisel) - LLDB 调试增强工具
