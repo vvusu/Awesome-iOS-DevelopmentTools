@@ -23,10 +23,14 @@ iOS开发工具集合
 * [johnno1962/Remote](https://github.com/johnno1962/Remote) - Xcode 内部控制你的 iPhone 来做端到端的测试
 * [inkling/Subliminal](https://github.com/inkling/Subliminal) - iOS集成测试框架
 * [square/PonyDebugger](https://github.com/square/PonyDebugger) - 使用Chrome开发者工具对iOS进行远程网络和数据调试
-* [wedxz/LNLeaksFinder](https://github.com/wedxz/LNLeaksFinder) - 自动化内存泄漏测试框架
+* [Zepo/MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - 自动化内存泄漏测试框架
 
 ## 调试
+* [reveal](https://revealapp.com/) - iOS UI调试工具
+* [charles](https://www.charlesproxy.com/) - iOS 网络调试工具
+* [Flipboard/FLEX](https://github.com/Flipboard/FLEX) - 嵌入APP内部的调试工具
 * [facebook/chisel](https://github.com/facebook/chisel) - LLDB 调试增强工具
+* [zixun/GodEye](https://github.com/zixun/GodEye) - iOS调试工具集合
 
 ## 部署
 * [fastlane/fastlane](https://github.com/fastlane/fastlane) - 将所有 iOS 部署工具整合到一个工作流中
