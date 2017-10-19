@@ -15,6 +15,7 @@ iOS开发工具集合
 * [shaojiankui/ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - iOS/macOS 描述文件管理
 * [SimPholders2](https://simpholders.com/) - 查看模拟器沙盒文件夹下的文件 (收费)
 * [hyperoslo/Simulator](https://github.com/hyperoslo/Simulator) - 访问模拟器沙盒文件 (开源)
+* [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Xcode文件清理工具
 
 ## 测试
 * [facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 模拟器适配测试，模拟器多开框架。
